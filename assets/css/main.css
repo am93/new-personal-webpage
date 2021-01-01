@@ -643,7 +643,7 @@ canvas.particles-js-canvas-el {
           HERO-02
 -------------------------*/
 .hero-02 {
-  background: url("https://placehold.co/1920x1280") no-repeat;
+  background: url("../img/header-background.jpg") no-repeat;
   background-size: cover;
   /* box-shadow: inset 0 0 0 2000px rgba(241, 243, 246, 0.5); */
 }
@@ -1024,9 +1024,9 @@ canvas.particles-js-canvas-el {
           HERO-07
 -------------------------*/
 .hero-07 {
-  background: url("https://placehold.co/1920x1280") no-repeat;
+  background: url("../img/header-background.jpg") no-repeat;
   background-size: cover;
-  box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.8);
+  box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.45);
 }
 
 .hero-07 .scroll-down span {
@@ -2020,7 +2020,8 @@ canvas.particles-js-canvas-el {
 
 .portfolio-single img {
   border-radius: 1rem;
-  width: 100%;
+  width: 50%;
+  margin-left: 25%;
 }
 
 /*-------------------------
@@ -2256,7 +2257,7 @@ canvas.particles-js-canvas-el {
 }
 
 .arshia-dark .hero-02 {
-  background: url("https://placehold.co/1920x1280") no-repeat;
+  background: url("../img/header-background.jpg") no-repeat;
   background-size: cover;
 }
 
